@@ -1,0 +1,6 @@
+.reveal .slides section.scrollable {
+  height: 100%;
+  overflow-y: auto !important;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
