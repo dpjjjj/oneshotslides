@@ -5,7 +5,6 @@
 
 ## Step 1 get a good prompt: {.scrollable}
 
-CompTIA PenTest+ validates the ability to **identify, mitigate, and report** system vulnerabilities across modern attack surfaces.
 
 ### Here's the one I used:
 
